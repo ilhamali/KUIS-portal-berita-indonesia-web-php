@@ -1,7 +1,7 @@
 api dari https://newsapi.org/ , 
 Jika muncul pesan error = Notice: Undefined index: articles in C:\xampp\htdocs\KUIS-portal-berita-indonesia(web-php)\index.
 dikarenakan APIKEY telah mencapai batas limit 50 request per 12 jam, karena api yang saya gunakan yang free, 
-maka ganti apikey pada file api.php dengan salah satu apikey dibawah ini
+maka bisa diganti apikey pada file api.php dengan salah satu apikey dibawah ini
 
 1. 3d70cafa17fe4f98b19bde7dc9b6712a
 2. e6cc951bd3af4e4e8d5749bd66672f0c
